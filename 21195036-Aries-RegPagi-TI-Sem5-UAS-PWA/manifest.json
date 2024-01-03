@@ -1,0 +1,19 @@
+{
+    "name": "Hello World",
+    "short_name": "Hello",
+    "icons": [{
+        "src": "assets/img/kuyuk.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose" : "any maskable"
+  
+      }],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "purpose": "any maskable",
+    "permissions":["notifictions"]
+  }
+  
